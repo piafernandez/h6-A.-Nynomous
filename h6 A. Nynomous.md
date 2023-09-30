@@ -107,15 +107,13 @@
 
 ## 8. Access to TOR network
 
-1.  I searched "list of onion adresses"
-
-2. Then I picked the https://darkweburls.com  
-
-3. Here you can find some onion links with a directory of other onion links/sites
+1. I searched for "list of onion addresses."
+2. Then I selected the website [https://darkweburls.com](https://darkweburls.com/).
+3. Here, you can find a collection of onion links along with a directory of other onion links and sites.
 
    <img width="405" alt="image" src="https://github.com/piafernandez/h6-A.-Nynomous/assets/71267247/aee28027-5544-42b2-946b-8a511a592023">
 
-4. I chose the "Yet Another Hidden Wiki", here you can find for onion sites 
+4. I chose 'Yet Another Hidden Wiki,' where you can discover various onion sites!
    <img width="419" alt="image" src="https://github.com/piafernandez/h6-A.-Nynomous/assets/71267247/29249e81-5413-4353-a1e6-fea932cffa8b">
 
 
@@ -124,7 +122,7 @@
 ## 1. Search engine for onion sites
 
 ```
-I have searched for a search engine for onion sites and the first one I found is Ahmia.fi, which is designe to allow access to the dark web.
+I searched for a search engine for onion sites, and the first one I found is Ahmia.fi, designed to provide access to the dark web.
 ```
 
 <img width="434" alt="image" src="https://github.com/piafernandez/h6-A.-Nynomous/assets/71267247/72c74f40-8914-4ebb-b6f7-8b026c3adb35">
@@ -132,11 +130,7 @@ I have searched for a search engine for onion sites and the first one I found is
 ## 2. Marketplace
 
 ```
-For this one, I have simply search "Marketplace" in ahmia.fi 
-
-And I click on the PremiumCardz where you can buy credit cards.
-
-For example, you can buy a Mastercard Gold with a 2'500 euros limit for around 600 euros
+For this one, I simply searched for 'Marketplace' on Ahmia.fi. I clicked on PremiumCardz, where you can purchase credit cards. For instance, you can buy a Mastercard Gold with a €2,500 limit for approximately €600.
 ```
 
 <img width="432" alt="image" src="https://github.com/piafernandez/h6-A.-Nynomous/assets/71267247/232c8c2d-30ce-461d-b32a-e96419949c99">
@@ -146,9 +140,7 @@ For example, you can buy a Mastercard Gold with a 2'500 euros limit for around 6
 ## 3. Forum
 
 ```
-For this one, I have also simply search "Forum" in ahmia.fi 
-
-And I click on the Cards Forum, which is about bank type cards.
+For this one, I also simply searched for 'Forum' on Ahmia.fi. I clicked on the Cards Forum, which focuses on bank-type cards.
 ```
 <img width="434" alt="image" src="https://github.com/piafernandez/h6-A.-Nynomous/assets/71267247/82cc9888-4ef1-4a23-9dce-b50394280430">
 <img width="429" alt="image" src="https://github.com/piafernandez/h6-A.-Nynomous/assets/71267247/7d70aa46-0326-44c7-bbc8-5cb087adb70a">
@@ -157,9 +149,7 @@ And I click on the Cards Forum, which is about bank type cards.
 ## 4. A site for a well known organization that has a physical street address in the real world
 
 ```
-For this task, as seen in class, I will search the onion site for the CIA.
-
-Of course, it was easier fot me to use Ahmia.fi and just searched CIA.
+For this task, as discussed in class, I will search for the onion site related to the CIA. Of course, it was easier for me to use Ahmia.fi and simply search for 'CIA.
 ```
 
 <img width="430" alt="image" src="https://github.com/piafernandez/h6-A.-Nynomous/assets/71267247/81fbd022-692d-43c0-9f78-b3039c865eba">
