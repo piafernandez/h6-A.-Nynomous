@@ -115,7 +115,7 @@
 
    <img width="405" alt="image" src="https://github.com/piafernandez/h6-A.-Nynomous/assets/71267247/aee28027-5544-42b2-946b-8a511a592023">
 
-4. I chose the "Yet Another Hidden Wiki", here you can find for onion sites !![image-20230930162152100](C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h6\h6\image-20230930162152100.png)
+4. I chose the "Yet Another Hidden Wiki", here you can find for onion sites 
    <img width="419" alt="image" src="https://github.com/piafernandez/h6-A.-Nynomous/assets/71267247/29249e81-5413-4353-a1e6-fea932cffa8b">
 
 
