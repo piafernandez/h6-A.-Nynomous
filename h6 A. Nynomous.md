@@ -81,6 +81,8 @@
 
 ## 3. Download for Linux
 
+> https://www.torproject.org/download/
+
 <img width="410" alt="image" src="https://github.com/piafernandez/h6-A.-Nynomous/assets/71267247/21c9b672-07ee-4779-aeb1-2782030bc3ce">
 
 ## 4. Extract the zip
@@ -160,4 +162,5 @@ For this task, as discussed in class, I will search for the onion site related t
 
 - Quintin, Cooper. ‘7 Things You Should Know About Tor’. *Electronic Frontier Foundation*, 1 July 2014, https://www.eff.org/deeplinks/2014/07/7-things-you-should-know-about-tor. Accessed 30 Sept. 2023.
 - *Chapter 2. The Tor Browser - Hiding Behind the Keyboard [Book]*. https://www.oreilly.com/library/view/hiding-behind-the/9780128033524/XHTML/B9780128033401000021/B9780128033401000021.xhtml. Accessed 30 Sept. 2023.
+- *The Tor Project | Privacy & Freedom Online*. https://torproject.org. Accessed 30 Sept. 2023.
 - *ChatGPT - OpenAI* [ChatGPT (openai.com)](https://chat.openai.com/?model=text-davinci-002-render-sha) Accessed 30 Sept. 2023.
